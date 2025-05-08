@@ -4,3 +4,67 @@
             margin: 5%;
             
         }
+input[type="text"]{
+  width: 100%;
+  padding: 0.6rem;
+  border: 2px solid;
+  outline: none;
+  border-radius: 5px;
+  background-color: transparent;
+} 
+input[type="number"]{
+  border: 2px solid;
+  outline: none;
+  border-radius: 5px;
+  background-color: transparent;
+}
+input[type="email"]{
+  width: 100%;
+  padding: 0.6rem;
+  border: 2px solid;
+  outline: none;
+  border-radius: 5px;
+  background-color: transparent;
+}
+input[type="select"]{
+  width: 100%;
+  padding: 0.6rem;
+  border: 2px solid;
+  outline: none;
+  border-radius: 5px;
+  background-color: transparent;
+}
+select{
+  cursor: pointer;
+  border: 2px solid;
+  outline: none;
+  border-radius: 5px;
+  background-color: transparent;
+}
+input[type="submit"]{
+  width: 15%;
+  cursor: pointer;
+  padding: 0.6rem;
+  border: 2px solid;
+  outline: none;
+  border-radius: 5px;
+  background-color: transparent;
+}
+textarea{
+  width: 100%;
+  border: 2px solid;
+  border-radius: 5px;
+  outline: none;
+  background-color: transparent;
+}
+input[type="reset"]{
+  width: 15%;
+  cursor: pointer;
+  padding: 0.6rem;
+  border: 2px solid;
+  outline: none;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+
